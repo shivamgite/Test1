@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="22418" started-at="2020-07-08T08:08:07Z" finished-at="2020-07-08T08:08:29Z">
+  <suite name="Default suite" duration-ms="630" started-at="2020-07-08T11:34:47Z" finished-at="2020-07-08T11:34:48Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="22418" started-at="2020-07-08T08:08:07Z" finished-at="2020-07-08T08:08:29Z">
-      <class name="simpleDevelopment.development2.Test1">
-        <test-method status="PASS" signature="method()[pri:0, instance:simpleDevelopment.development2.Test1@6646153]" name="method" duration-ms="22365" started-at="2020-07-08T08:08:07Z" finished-at="2020-07-08T08:08:29Z">
+    <test name="Default test" duration-ms="630" started-at="2020-07-08T11:34:47Z" finished-at="2020-07-08T11:34:48Z">
+      <class name="simpleDevelopment.development2.test3">
+        <test-method status="PASS" signature="dbMethod()[pri:0, instance:simpleDevelopment.development2.test3@6b419da]" name="dbMethod" duration-ms="575" started-at="2020-07-08T11:34:47Z" finished-at="2020-07-08T11:34:48Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- method -->
-      </class> <!-- simpleDevelopment.development2.Test1 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- dbMethod -->
+      </class> <!-- simpleDevelopment.development2.test3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
