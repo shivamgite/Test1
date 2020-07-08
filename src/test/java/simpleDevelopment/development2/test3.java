@@ -3,6 +3,10 @@ package simpleDevelopment.development2;
 import org.testng.annotations.Test;
 public class test3 {
 	
+	/**
+	 * 
+	 * @author shivam gite
+	 */
 	@Test
 	public void dbMethod() {
 		DBUtil1 util = new DBUtil1("localhost","3306","sql_store","root","123");
